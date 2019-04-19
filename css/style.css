@@ -46,6 +46,10 @@ img#header {
 	margin-top: -40px;
 }
 
+.columns {
+	display: block;
+}
+
 .columns img {
 	border: 5px solid rgb(204, 204, 204);
 	transition: all 0.3s ease;
