@@ -47,7 +47,7 @@ img#header {
 }
 
 .columns {
-	display: inline-block;
+	display: inline-grid;
 }
 
 .columns img {
